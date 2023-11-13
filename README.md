@@ -1,4 +1,4 @@
-- Hi there! I'm anbardoi 😊
+- Hi there! I'm taksyon 😊
 - New to programming!
 - Started with Python, lately have been learning Powershell and Javascript!
 - Would love to collaborate if anyone wants to!
